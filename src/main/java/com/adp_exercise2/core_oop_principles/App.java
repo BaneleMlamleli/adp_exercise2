@@ -1,7 +1,13 @@
-package com.adp_exercise2;
+package com.adp_exercise2.core_oop_principles;
 
-public class MainClass {
-    public static void main(String[]args){
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
         String busCompanyName = "MyCiti";
         int maximumSpeed = 160;
         Vehicle vehicle = new Vehicle();
